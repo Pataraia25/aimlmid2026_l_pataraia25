@@ -12,15 +12,15 @@ The program successfully computes the Pearson correlation coefficient and presen
 Spam email detection
 
 <p align="center">
-  <img src="images/3.png" width="400">
+  <img src="img/3.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/4.png" width="400">
+  <img src="img/4.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/5.png" width="400">
+  <img src="img/5.png" width="400">
 </p>
 
 Spam Email Detection Using Logistic Regression

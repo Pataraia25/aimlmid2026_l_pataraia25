@@ -1,7 +1,10 @@
 Finding the correlation (find_the_correlation.py)
-<img src="img/1.png" width="400">
-
-<img src="img/2.png" width="400">
+<p align="center">
+  <img src="img/1.png" width="400">
+</p>
+<p align="center">
+  <img src="img/2.png" width="400">
+</p>
 This program computes the Pearson correlation coefficient to measure the strength and direction of the linear relationship between two numerical variables. The implementation performs both manual calculations and graphical visualization to validate the result.
 The program begins by computing the mean of both variables. It then calculates the deviation of each value from its mean, followed by the product of deviations and squared deviations, which are required for Pearson’s correlation formula.
 
